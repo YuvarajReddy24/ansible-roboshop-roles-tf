@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb-{{ env }}.yuvarajreddy.fun # mongodb-dev.yuvarajreddy.fun
+REDIS_HOST: redis-{{ env }}.yuvarajreddy.fun
+CATALOGUE_HOST: catalogue-{{ env }}.yuvarajreddy.fun
+CART_HOST: cart-{{ env }}.yuvarajreddy.fun
+USER_HOST: user-{{ env }}.yuvarajreddy.fun
+RABBITMQ_HOST: rabbitmq-{{ env }}.yuvarajreddy.fun
+MYSQL_HOST: mysql-{{ env }}.yuvarajreddy.fun
+SHIPPING_HOST: shipping-{{ env }}.yuvarajreddy.fun
+PAYMENT_HOST: payment-{{ env }}.yuvarajreddy.fun
