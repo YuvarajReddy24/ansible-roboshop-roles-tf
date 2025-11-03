@@ -5,7 +5,7 @@
   tags:
   - deployment
 
-- name: app setup
+- name: node setup
   #ansible.builtin.import_role:
   ansible.builtin.include_role:
     name: common
